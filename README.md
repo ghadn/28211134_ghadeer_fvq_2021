@@ -1,4 +1,4 @@
-# MODULAR PROGRAMME COURSEWORK ASSESSMENT SPECIFICATION
+# MODULAR PROGRAMME COURSEWORK ASSESSMENT
 
 Programming Task 1:
 This programming task focuses on using Python to calculate a set of standard statistical measures for a given dataset using built-in functions and data structures ONLY.
